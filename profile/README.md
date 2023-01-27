@@ -2,7 +2,7 @@
 
 MOPST allows users to run multiple scenarios quickly and easily to understand current and proposed tourism pressures and opportunities using a variety of data. It was created as part of the BioCultural Heritage Tourism Project by the University of Exeter, Geospatial Training Solutions and Devon County Council.
 
-As well as [reports](/reports) on the project, we also have a [ArcGIS Python Toolbox](/qgis-plugin) and [QGIS Plugin](/arcgis-python-toolbox) to allow you to run the tool. Both come with example data sets and instructions. 
+As well as [reports](https://github.com/mopst/reports) on the project, we also have a [ArcGIS Python Toolbox](https://github.com/mopst/arcgis-python-toolbox) and [QGIS Plugin](https://github.com/mopst/qgis-plugin) to allow you to run the tool. Both come with example data sets and instructions. 
 
 The report includes details of methods, results and discussion of findings and implications along with notes on transferability, implementation and next steps.
 
